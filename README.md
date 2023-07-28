@@ -28,3 +28,18 @@ DictionaryWeb is a user-friendly web application that allows users to access dic
 ## Development Setup
 
 1. Clone the repository:
+
+2. Install dependencies:
+
+3. Run the app:
+
+4. Access the app in your web browser at http://localhost:3000
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or new feature ideas, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
