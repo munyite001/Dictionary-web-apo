@@ -1,4 +1,4 @@
-# DictionaryWeb
+# DictionaryWebAPP
 
 DictionaryWeb is a user-friendly web application that allows users to access dictionary definitions, synonyms, antonyms, and example sentences for various words. The app consumes a dictionary API to provide accurate and up-to-date word information, empowering users to enhance their vocabulary and language comprehension.
 
